@@ -51,6 +51,7 @@ A curated list of tools that can be used for creating interactive mathematical e
  - [Complex function plotter](https://www.dynamicmath.xyz/complex/function-plotter/hsv.htm), Juan Carlos Ponce Campuzano
  - [Elliptic curve explorer](https://samuelj.li/elliptic-curve-explorer), Samuel Li
  - [Fourier Cuboid](https://static.laszlokorte.de/fourier/), Laszlo Korte
+ - [Function Grapher](https://pastezap.com/tools/function-grapher/), Imadeddine Djerbaoui
  - [Interactive projective plane](https://ubavic.rs/work/interactive_projective_plane), Nikola Ubavić
  - [IsoVis](https://rawgit.com/csp256/IsoVis/master/IsoVis.html), Christopher Parker
 
